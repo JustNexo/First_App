@@ -4,9 +4,10 @@
     <string name="greetings2">Добро пожаловть в /name/.</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_main3">Main3Activity</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="greetings0">Введите название компании:</string>
     <string name="start">Начать</string>
+    <string name="clicked">+1</string>
+    <string name="dollar">$</string>
+    
 </resources>
